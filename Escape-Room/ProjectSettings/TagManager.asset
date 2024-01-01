@@ -1,0 +1,64 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - OpenInstruction
+  - piece
+  - player
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Room
+    uniqueID: 280803415
+    locked: 0
+  - name: Squares
+    uniqueID: 911886773
+    locked: 0
+  - name: Second Components
+    uniqueID: 3584469105
+    locked: 0
+  - name: Player
+    uniqueID: 1228033143
+    locked: 0
+  - name: Bagpack1
+    uniqueID: 2723549899
+    locked: 0
+  - name: Bagpack2
+    uniqueID: 2597628741
+    locked: 0
